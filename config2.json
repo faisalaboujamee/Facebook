@@ -1,0 +1,27 @@
+{
+  "pages": {
+    "WHO": "",
+    "ottawahealth": "",
+    "ctvtoronto": "",
+    "CBCVancouver": "",
+    "unicef": ""
+  },
+  "groups": {
+    "264641137831603": "",
+    "1163952083960667": ""
+  },
+  "Keywords": {
+    "COVID": "",
+    "covid": "",
+    "pandemic": "",
+    "Covid": "",
+    "corona": "",
+    "Corona": "",
+    "CORONA": "",
+    "virus": "",
+    "Virus": "",
+    "VIRUS": ""
+  },
+  "number_of_pages" : "150",
+  "time_to_sleep": "10000"
+}
